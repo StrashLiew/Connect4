@@ -1,0 +1,9 @@
+﻿  MinMaxWABPruning.cpp
+C:\Users\User\Desktop\Moodle\2021_04\PrincipalOfAI\Project\Connect4\MakeAWindow\MinMaxWABPruning.cpp(8,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Position.cpp
+  MakeAWindow.cpp
+C:\Users\User\Desktop\Moodle\2021_04\PrincipalOfAI\Project\Connect4\MakeAWindow\MakeAWindow.cpp(384,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+C:\Users\User\Desktop\Moodle\2021_04\PrincipalOfAI\Project\Connect4\MakeAWindow\MakeAWindow.cpp(311): warning C4715: 'MainWindow::FindColumn': not all control paths return a value
+C:\Users\User\Desktop\Moodle\2021_04\PrincipalOfAI\Project\Connect4\MakeAWindow\MinMaxWABPruning.cpp(81): warning C4715: 'MinMaxWABPruning': not all control paths return a value
+  MakeAWindow.vcxproj -> C:\Users\User\Desktop\Moodle\2021_04\PrincipalOfAI\Project\Connect4\x64\Debug\Connect4.exe

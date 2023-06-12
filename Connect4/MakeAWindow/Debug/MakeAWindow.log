@@ -1,0 +1,4 @@
+﻿  MakeAWindow.cpp
+C:\Users\User\Desktop\Hobby\MakeAWindow\MakeAWindow\MakeAWindow.cpp(366,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\Desktop\Hobby\MakeAWindow\MakeAWindow\MakeAWindow.cpp(305): warning C4715: 'MainWindow::FindColumn': not all control paths return a value
+  MakeAWindow.vcxproj -> C:\Users\User\Desktop\Hobby\MakeAWindow\Debug\MakeAWindow.exe
